@@ -8,7 +8,7 @@
 
 * Founded by: Matthew Oppenheimer, Josh Hug, & Shivaas Gulati
 
-**How did the idea for the company (or project) come about?**
+**How did the idea for the company come about?**
 >One of the founders, Matthew Oppenheimer, experienced first hand how difficult it was to send money to and from the United States while he was living abroad. This is why he wanted to create a way for people to conveniently send money back and forth internationally, in a convenient and cost effective way. He recognized the rapidly growing market for smartphones; a technology he could take advantage of for this product.
 
 **How is the company funded? How much funding have they received?**
@@ -26,7 +26,7 @@
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
 >Remitly has a solution that provides access to their services anytime, anywhere. That is the benefit and unfair advantage of developing a service that consists entirely online. They also provide multiple options for how the money is received. They even offer home delivery, where money can be delivered to the recipient's home in a few days. For example, during the pandemic banks took a hit in the remittance market. The market was expected to decline about 20% in 2020. However, Remitly actually saw customer growth. This is due to the uniqueness of what they offer. 
 
-**Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
+**Which technologies are they currently using, and how are they implementing them?**
 >Remitly is currently an app for smartphones as well as a website. They utilize technologies such as jQuery, NGINX, React, Java, BootStrap, CodeIgniter, and more.
 
 
@@ -61,7 +61,7 @@
 
 ## Recommendations
 
-**If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
+**If you were to advise the company, what products or services would you suggest they offer?**
 >Right now, Remitly offers a wide range of delivery methods for the funds they send. This includes direct deposit to a bank account, cash pickup, mobile money accounts, and home delivery. This is major when thinking about remote locations where people do not always have a bank account, or a way to safely pick up their received money. With that being said, Remitly may be many people’s only financial service application. I think that gives them a unique opportunity to expand the kind of products and services they offer their customers. One thing that might be intriguing for these kinds of customers would be money management/growth tools, similar to what we see currently on personal finance apps. This could mean adopting some of the technologies that apps such as Acorns uses - taking change out of your account and investing it. Or offer budgeting options similar to the Mint app. 
 
 **Why do you think that offering this product or service would benefit the company?**
@@ -78,3 +78,5 @@
 > - https://www.remitly.com/
 > - https://www.businesswire.com/news/home/20200729005253/en/Remitly-Announces-85-Million-Round-as-Digital-Remittances-Surge-Globally#:~:text=Established%20in%202011%20and%20headquartered,%2C%20Krak%C3%B3w%2C%20Manila%20and%20Managua
 > - https://widgets.weforum.org/techpioneers-2019/companies/remitly/
+> - https://blog.remitly.com/
+
